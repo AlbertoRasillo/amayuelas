@@ -267,7 +267,7 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_sty
 
 					<jdoc:include type="modules" name="position-14" />
 					<p>
-						Email: amayuelas@nodo50.org
+						Email: elpatiodeamayuelas@hotmail.com
 					</p>
 
 			<?php if (!$templateparams->get('html5', 0)): ?>
